@@ -1,4 +1,4 @@
-# Grands donnateurs
+# Grands donateurs
 
 ```
 $ En cours de construction
