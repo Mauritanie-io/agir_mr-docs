@@ -2,7 +2,6 @@
 
 * [Fond National de Solidarité](README.md)
 * [Mot du Président](mot-du-president.md)
-* [Comité Interministériel](comite-interministeriel.md)
 
 ## Réalisez un don
 
