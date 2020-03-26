@@ -16,5 +16,7 @@
 
 * [Actualités gouvernementales](communiques-officiels-1/actualites-gouvernementales.md)
 * [Grands donateurs](communiques-officiels-1/contributions-notables.md)
-* [Sante.mr](https://sante.mr)
+* [Ministère de l'Economie et des Finances](https://www.economie.gov.mr/)
+* [Ministère de la Santé](http://www.sante.gov.mr/)
+* [Covid-19 infos: Sante.mr](https://sante.mr)
 
