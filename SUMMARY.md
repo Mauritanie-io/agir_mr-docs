@@ -1,11 +1,7 @@
 # Table of contents
 
-* [Accueil](README.md)
-
-## Fond National de Solidarité
-
-* [A Propos du Fond](fond-national-de-solidarite/fond-de-solidarite.md)
-* [Comité Interministériel](fond-national-de-solidarite/comite-interministeriel.md)
+* [Fond National de Solidarité](README.md)
+* [Comité Interministériel](comite-interministeriel.md)
 
 ## Réalisez un don
 
