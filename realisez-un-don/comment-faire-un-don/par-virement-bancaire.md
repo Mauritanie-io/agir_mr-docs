@@ -19,27 +19,32 @@ Les contributions par virement bancaire seront reçues sur le compte N° 321 90 
 
 
 
-Banques correspondantes : 
+#### _Banques correspondantes :_ 
 
 * En **USD** 
 
-**FEDERAL RESERVE BANK OF NEW YORK**  \(CODE SWIFT **: FRNYUS33**\)
+|   |   |
+| :--- | :--- |
+| **FEDERAL RESERVE BANK OF NEW YORK** | \(CODE SWIFT **: FRNYUS33**\) |
+| Numéro de compte  | 021084937 MAURI |
 
-Numéro de compte : 021084937 MAURI
+|   |   |
+| :--- | :--- |
+| **BANQUE DE FRANCE**                                                |   \(CODE SWIFT **: BDFEFRPPSRD**\) |
+| Numéro de compte | FR8030001014780000J10024845 |
 
-**BANQUE DE FRANCE**  \(CODE SWIFT **: BDFEFRPPSRD**\)
-
-Numéro de compte : FR8030001014780000J10024845
-
-**BANQUE CENTRALE DE MAURITANIE**
+ **BANQUE CENTRALE DE MAURITANIE**
 
 * En **EURO** 
 
-**BANQUE DE FRANCE**  \(CODE SWIFT **: BDFEFRPPXXX**\)
+|  **** |   |
+| :--- | :--- |
+| **BANQUE DE FRANCE**                                                |   \(CODE SWIFT **: BDFEFRPPXXX**\) |
+| Numéro de compte | FR7630001000640000005160246 |
 
-Numéro de compte : FR7630001000640000005160246 
+ **BANQUE CENTRALE DE MAURITANIE**
 
-**BANQUE CENTRALE DE MAURITANIE**
+\*\*\*\*
 
 {% file src="../../.gitbook/assets/attestation-du-compte-bcm.jpg" caption="Attestation du compte BCM" %}
 
