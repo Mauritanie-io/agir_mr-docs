@@ -14,5 +14,5 @@
 ## Communiqués Officiels <a id="communiques-officiels-1"></a>
 
 * [Actualités gouvernementales](communiques-officiels-1/actualites-gouvernementales.md)
-* [Contributions notables](communiques-officiels-1/contributions-notables.md)
+* [Grands donnateurs](communiques-officiels-1/contributions-notables.md)
 
