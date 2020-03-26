@@ -1,5 +1,5 @@
 ---
-description: Décret présidentiel de la création du fond
+description: Décret présidentiel de la création du Fond National de Solidarité Social
 ---
 
 # Mot du Président
