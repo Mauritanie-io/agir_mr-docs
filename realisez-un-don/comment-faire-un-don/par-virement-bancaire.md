@@ -6,7 +6,7 @@ description: Réalisez un don par virement bancaire
 
 Les contributions par virement bancaire seront reçues sur le compte N° 321 90 01 créé à cet effet le 23 Mars 2020.
 
-| **Nom de la banque** | **Banque** |
+|  |  |
 | :--- | :--- |
 | **Nom de la banque** | **Banque Centrale de la Mauritanie** |
 | Adresse de la banque | BP 623 Nouakchott Avenue de l'indépendance |
