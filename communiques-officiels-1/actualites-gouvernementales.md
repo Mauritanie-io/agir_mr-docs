@@ -1,10 +1,10 @@
 # Actualités gouvernementales
 
-## 21-03-2020
+## 26-03-2020
 
-### Communiqué du Ministère de l'intérieur:
+### Communiqué du Ministère de la santé:
 
-* Mise en place d'un couvre-feu à partir de 18h jusqu'à 6h du matin
+* Troisième cas covid-19 détecté en Mauritanie
 
 ## 21-03-2020
 
@@ -16,7 +16,7 @@
 
 ### Communiqué du Ministère de la Santé:
 
-*  * Deuxième cas covid-19 détecté en Mauritanie
+* Deuxième cas covid-19 détecté en Mauritanie
 
 ## 15-03-2020
 
