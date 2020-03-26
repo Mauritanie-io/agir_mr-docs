@@ -16,4 +16,5 @@
 
 * [Actualités gouvernementales](communiques-officiels-1/actualites-gouvernementales.md)
 * [Grands donateurs](communiques-officiels-1/contributions-notables.md)
+* [Sante.mr](https://sante.mr)
 
