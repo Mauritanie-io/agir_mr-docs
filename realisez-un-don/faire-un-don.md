@@ -6,7 +6,7 @@ description: Créez de l'impact social en réalisant un don
 
 Face à la crise sanitaire et économique qui menace le peuple  mauritanien et la stabilité de la nation, l’ensemble des citoyens, des acteurs du secteur public ou privé  ainsi que les partneraires économiques ou associatifs sont invités à s’impliquer activement dans le combat contre les retombées directes et indirectes de la pandémie du coronavirus COVID-19.
 
-Les contributions versées au fond seront mobilisées comme suit:
+Les contributions versées au fonds seront mobilisées comme suit:
 
 #### 1. L' acquisition d'équipements médicaux, de tests de dépistage et de médicaments
 
