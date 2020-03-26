@@ -1,3 +1,7 @@
+---
+description: Liste des contributeurs notables
+---
+
 # Grands donateurs
 
 ```
