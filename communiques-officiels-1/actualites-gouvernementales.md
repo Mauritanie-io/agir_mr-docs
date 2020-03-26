@@ -4,7 +4,7 @@
 
 ### Communiqué du Ministère de la santé:
 
-* Troisième cas covid-19 détecté en Mauritanie
+* Troisième cas COVID-19 détecté en Mauritanie
 
 ## 21-03-2020
 
@@ -16,7 +16,7 @@
 
 ### Communiqué du Ministère de la Santé:
 
-* Deuxième cas covid-19 détecté en Mauritanie
+* Deuxième cas COVID-19 détecté en Mauritanie
 
 ## 15-03-2020
 
@@ -34,7 +34,7 @@
 
 ### Communiqué du Ministère de la Santé:
 
-* Premier cas covid-19 détecté en Mauritanie
+* Premier cas COVID-19 détecté en Mauritanie
 
 ![](../.gitbook/assets/communique1.jpg)
 
