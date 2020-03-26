@@ -4,7 +4,7 @@ description: Le site officiel du Fond National de Solidarité Mauritanien
 
 # Fond National de Solidarité
 
-![](.gitbook/assets/screenshot-from-2020-03-26-15-35-49.png)
+![](.gitbook/assets/screenshot-from-2020-03-26-15-40-39.png)
 
 Annoncé le 25 Mars 2020 par le Président de la République Islamique de Mauritanie Mr Mohamed Ould Cheikh El Ghazouani, le Fond National de Solidarité Mauritanien est un fond social pour la lutte  contre le coronavirus et ses conséquences sur le territoire mauritanien.
 
