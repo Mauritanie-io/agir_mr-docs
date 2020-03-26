@@ -19,30 +19,26 @@ Les contributions par virement bancaire seront reçues sur le compte N° 321 90 
 
 
 
-#### _Banques correspondantes :_ 
+## **Banques correspondantes :** 
 
-* En **USD** 
+### Compte devises en **USD** 
 
-|   |   |
+| **Compte 1** | **BANQUE CENTRALE DE MAURITANIE** |
 | :--- | :--- |
 | **FEDERAL RESERVE BANK OF NEW YORK** | \(CODE SWIFT **: FRNYUS33**\) |
 | Numéro de compte  | 021084937 MAURI |
 
-|   |   |
+| **Compte 2** | **BANQUE CENTRALE DE MAURITANIE** |
 | :--- | :--- |
 | **BANQUE DE FRANCE**                                                |   \(CODE SWIFT **: BDFEFRPPSRD**\) |
 | Numéro de compte | FR8030001014780000J10024845 |
 
- **BANQUE CENTRALE DE MAURITANIE**
+### Compte devises en **EURO** 
 
-* En **EURO** 
-
-|  **** |   |
-| :--- | :--- |
-| **BANQUE DE FRANCE**                                                |   \(CODE SWIFT **: BDFEFRPPXXX**\) |
-| Numéro de compte | FR7630001000640000005160246 |
-
- **BANQUE CENTRALE DE MAURITANIE**
+| **Compte 3** | **BANQUE CENTRALE DE MAURITANIE** |  |
+| :--- | :--- | :--- |
+| **BANQUE DE FRANCE**                                                |   \(CODE SWIFT **: BDFEFRPPXXX**\) |  |
+| Numéro de compte | FR7630001000640000005160246 |  |
 
 \*\*\*\*
 
