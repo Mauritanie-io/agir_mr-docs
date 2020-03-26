@@ -6,7 +6,7 @@ description: Décret présidentiel de la création du fond
 
 
 
-![Pr&#xE9;sident de la R&#xE9;publique Mr Mohamed ould Cheikh El Ghazouani](.gitbook/assets/image.png)
+![Pr&#xE9;sident de la R&#xE9;publique Monsieur Mohamed ould Cheikh El Ghazouani](.gitbook/assets/image.png)
 
 > « Citoyens, citoyennes
 >
