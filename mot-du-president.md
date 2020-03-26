@@ -14,7 +14,7 @@ description: Décret présidentiel de la création du Fond National de Solidarit
 >
 >  En ces moments de grave menace, apparait avec force la communauté de destin qui lie un même peuple. Le fléau frappe sans discrimination et la capacité d’y faire face est à la mesure du degré de prise de conscience et de l’aptitude de tous à conjuguer les efforts dans une dynamique d’unité nationale et de solidarité sociale.
 >
->  Les graves conséquences que cette pandémie a entrainé dans des pays développés, en dépit de la performance de leurs systèmes de santé et de la qualité de leurs infrastructures sanitaires, notamment en termes de laboratoires modernes et d’hôpitaux de référence, sont la preuve éloquente que notre première bouée de sauvetage réside dans les actions qui permettent d’éviter la propagation du virus et l’élargissement du spectre de contamination.
+>  Les graves conséquences que cette pandémie a entraîné dans des pays développés, en dépit de la performance de leurs systèmes de santé et de la qualité de leurs infrastructures sanitaires, notamment en termes de laboratoires modernes et d’hôpitaux de référence, sont la preuve éloquente que notre première bouée de sauvetage réside dans les actions qui permettent d’éviter la propagation du virus et l’élargissement du spectre de contamination.
 >
 >  Conscient de cela, nous avons, dès le début, pris une série de mesures sanitaires et sécuritaires préventives en vue de protéger le pays contre l’infiltration du virus et de réduire les pratiques qui contribuent à sa propagation par la limitation des rassemblements, l’auto-confinement et la restriction des déplacements que ne dicte pas l’extrême nécessité.
 >
@@ -40,21 +40,21 @@ description: Décret présidentiel de la création du Fond National de Solidarit
 >
 >  Ce fonds sera ouvert à tous ceux qui souhaitent contribuer à cet effort national, notamment les acteurs économiques nationaux et partenaires internationaux.
 >
->  L’Etat a consacré une contribution à ce fonds à hauteur de 25 milliards MRO destinés à financer les actions suivantes :
+>  L’État a consacré une contribution à ce fonds à hauteur de 25 milliards MRO destinés à financer les actions suivantes :
 >
 >  1. L’acquisition de quantités de médicaments, de matériels et d’équipement sanitaires qui répondent aux besoins du pays pour faire face à la pandémie.
 >
 >  2. L’allocation d’un montant de 5 milliards MRO à l’appui de 30 mille familles pauvres parmi celles dont les chefs de ménage sont des femmes, les personnes du troisième âge et les personnes vivant avec un handicap, et dont la majorité réside à Nouakchott. Ceux-ci recevront une aide financière mensuelle pendant trois mois.
 >
->  3. La prise en charge par l’Etat, pour le reste de l’année, de l’ensemble des impôts et taxes douanières sur les importations de blé, d’huile, de lait en poudre, de légumes et de fruits.
+>  3. La prise en charge par l’État, pour le reste de l’année, de l’ensemble des impôts et taxes douanières sur les importations de blé, d’huile, de lait en poudre, de légumes et de fruits.
 >
->  4. La prise en charge par l’Etat, pendant deux mois, des factures d’eau et d’électricité des familles pauvres.
+>  4. La prise en charge par l’État, pendant deux mois, des factures d’eau et d’électricité des familles pauvres.
 >
->  5. La prise en charge par l’Etat, pour le reste de l’année, des frais de consommation d’eau dans les villages.
+>  5. La prise en charge par l’État, pour le reste de l’année, des frais de consommation d’eau dans les villages.
 >
->  6. La prise en charge par l’Etat, pendant deux mois, de toutes les taxes municipales liées aux activités informelles.
+>  6. La prise en charge par l’État, pendant deux mois, de toutes les taxes municipales liées aux activités informelles.
 >
->  7. La prise en charge par l’Etat, pour le reste de l’année, de toutes les taxes appliquées aux chefs de ménages qui travaillent dans le secteur de la pêche artisanale.
+>  7. La prise en charge par l’État, pour le reste de l’année, de toutes les taxes appliquées aux chefs de ménages qui travaillent dans le secteur de la pêche artisanale.
 >
 >  Il convient de souligner que les ressources allouées à ce fonds n’impacteront pas les projets sociaux et de développement programmés cette année et dont le rythme d’exécution sera accéléré pour accompagner de façon efficace les impératifs de la situation actuelle.
 >
