@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Fond National de Solidarité](README.md)
+* [Fonds National de Solidarité](README.md)
 * [Mot du Président](mot-du-president.md)
 
 ## Réalisez un don
