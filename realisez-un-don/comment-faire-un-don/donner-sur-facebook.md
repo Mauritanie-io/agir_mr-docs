@@ -1,5 +1,5 @@
 ---
-description: Réalisez un don sur la compagne Facebookz
+description: Réalisez un don sur la campagne Facebook
 ---
 
 # Donner sur Facebook
